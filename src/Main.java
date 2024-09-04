@@ -7,6 +7,7 @@ public class Main {
 
         // No.2
         PrimeChecker oneAttemptCheck = new PrimeChecker();
+        oneAttemptCheck.inputNumber();
         oneAttemptCheck.exhibitPrimeChecker();
     }
 }
