@@ -9,5 +9,11 @@ public class Main {
         PrimeChecker oneAttemptCheck = new PrimeChecker();
         oneAttemptCheck.inputNumber();
         oneAttemptCheck.exhibitPrimeChecker();
+// No.3
+        LargestArray findOne = new LargestArray();
+        findOne.findLargest();
+        // No.10
+        SmallestArray find2small = new SmallestArray();
+        find2small.findSmallestAndSecondSmallest();
     }
 }
